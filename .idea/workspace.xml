@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34d05fa5-8403-46b0-bdc1-9082f7f091f4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conversorDeMoedas.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conversorApi/Conversor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conversorApi/ConversorApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/menu/Menu.java" afterDir="false" />
-    </list>
+    <list default="true" id="34d05fa5-8403-46b0-bdc1-9082f7f091f4" name="Changes" comment="Desafio conversor de moedas" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +21,33 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "history": [
+    {
+      "state": "OPEN",
+      "assignee": "luizlav001",
+      "author": "luizlav001"
+    },
+    {
+      "state": "OPEN",
+      "assignee": "luizlav001",
+      "author": "luizlav001",
+      "label": "documentation"
+    }
+  ],
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "luizlav001",
+    "author": "luizlav001",
+    "label": "documentation"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/luizlav001/conversor-de-moedas",
+    "accountId": "84fa3001-ed85-4d3e-9b90-419941ec8a43"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -79,6 +94,19 @@
       <option name="presentableId" value="Default" />
       <updated>1714866930087</updated>
     </task>
+    <task id="LOCAL-00001" summary="Desafio conversor de moedas">
+      <option name="closed" value="true" />
+      <created>1715435112150</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715435112211</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Desafio conversor de moedas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Desafio conversor de moedas" />
   </component>
 </project>
