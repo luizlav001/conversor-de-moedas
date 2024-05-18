@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34d05fa5-8403-46b0-bdc1-9082f7f091f4" name="Changes" comment="Desafio conversor de moedas" />
+    <list default="true" id="34d05fa5-8403-46b0-bdc1-9082f7f091f4" name="Changes" comment="Desafio conversor de moedas">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,45 +23,45 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "history": [
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
     {
-      "state": "OPEN",
-      "assignee": "luizlav001",
-      "author": "luizlav001"
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;assignee&quot;: &quot;luizlav001&quot;,
+      &quot;author&quot;: &quot;luizlav001&quot;
     },
     {
-      "state": "OPEN",
-      "assignee": "luizlav001",
-      "author": "luizlav001",
-      "label": "documentation"
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;assignee&quot;: &quot;luizlav001&quot;,
+      &quot;author&quot;: &quot;luizlav001&quot;,
+      &quot;label&quot;: &quot;documentation&quot;
     },
     {
-      "searchQuery": "Desafio conversor de moedas",
-      "state": "OPEN",
-      "assignee": "luizlav001",
-      "author": "luizlav001",
-      "label": "documentation"
+      &quot;searchQuery&quot;: &quot;Desafio conversor de moedas&quot;,
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;assignee&quot;: &quot;luizlav001&quot;,
+      &quot;author&quot;: &quot;luizlav001&quot;,
+      &quot;label&quot;: &quot;documentation&quot;
     },
     {
-      "state": "OPEN"
+      &quot;state&quot;: &quot;OPEN&quot;
     },
     {
-      "state": "OPEN",
-      "author": "luizlav001"
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;author&quot;: &quot;luizlav001&quot;
     }
   ],
-  "lastFilter": {
-    "state": "OPEN",
-    "author": "luizlav001"
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;author&quot;: &quot;luizlav001&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/luizlav001/conversor-de-moedas",
-    "accountId": "84fa3001-ed85-4d3e-9b90-419941ec8a43"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/luizlav001/conversor-de-moedas&quot;,
+    &quot;accountId&quot;: &quot;84fa3001-ed85-4d3e-9b90-419941ec8a43&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -76,7 +78,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/programa/dependencias/gson-2.10.1.jar",
+    "last_opened_file_path": "C:/curso/screanmatch",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -154,7 +156,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715441514714</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Desafio conversor de moedas">
+      <option name="closed" value="true" />
+      <created>1715442277063</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1715442277063</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
